@@ -37,7 +37,7 @@ To explore and analyze Amazon product listings, focusing on:
 |------|-------------|
 | [Amazon_Dashboard.xlsx](https://github.com/user-attachments/files/20911044/Amazon_Dashboard.xlsx)| Final Excel dashboard with all pivot tables, charts, and slicers |
 | [Amazon_PivotTables.xlsx](https://github.com/user-attachments/files/20911107/Amazon_PivotTables.xlsx)`| Contains Pivot tables used for the analysis questions (Q1-Q14)
-| `Amazon_Insights_Report.docx` | Summary of insights and business recommendations |
+|  | Summary of insights and business recommendations |
 | [Amazon_Cleaned_Data.xlsx](https://github.com/user-attachments/files/20911162/Amazon_Cleaned_Data.xlsx)| Cleaned dataset with calculated fields |
 
 ##  How to Use
