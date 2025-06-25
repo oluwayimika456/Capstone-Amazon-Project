@@ -37,12 +37,12 @@ To explore and analyze Amazon product listings, focusing on:
 |------|-------------|
 | [Amazon_Dashboard.xlsx](https://github.com/user-attachments/files/20911044/Amazon_Dashboard.xlsx)| Final Excel dashboard with all pivot tables, charts, and slicers |
 | [Amazon_PivotTables.xlsx](https://github.com/user-attachments/files/20911107/Amazon_PivotTables.xlsx)`| Contains Pivot tables used for the analysis questions (Q1-Q14)
-|  | Summary of insights and business recommendations |
+| [Amazon Insight Report.docx](https://github.com/user-attachments/files/20911472/Amazon.Insight.Report.docx)| Summary of insights and business recommendations |
 | [Amazon_Cleaned_Data.xlsx](https://github.com/user-attachments/files/20911162/Amazon_Cleaned_Data.xlsx)| Cleaned dataset with calculated fields |
 
 ##  How to Use
-1. Download the `Amazon_Dashboard.xlsx` file.
+1. Download the [Amazon_Dashboard.xlsx](https://github.com/user-attachments/files/20911492/Amazon_Dashboard.xlsx)file.
 2. Explore slicers and pivot tables interactively.
-3. Read `Amazon_Insights_Report.docx` for insights.
+3. Read [Amazon Insight Report.docx](https://github.com/user-attachments/files/20911508/Amazon.Insight.Report.docx) for insights.
 
 
