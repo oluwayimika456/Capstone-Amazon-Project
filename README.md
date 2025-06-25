@@ -39,12 +39,9 @@ To explore and analyze Amazon product listings, focusing on:
 | `Amazon_Insights_Report.docx` | Summary of insights and business recommendations |
 | `Amazon_Cleaned_Data.xlsx` | Cleaned dataset with calculated fields |
 
-## ✅ How to Use
+##  How to Use
 1. Download the `Amazon_Dashboard.xlsx` file.
 2. Explore slicers and pivot tables interactively.
 3. Read `Amazon_Insights_Report.docx` for insights.
 4. Review the project summary here or in `README.md`.
 
----
-
-> Developed as part of a data analysis capstone project to demonstrate Excel-based business intelligence skills.
